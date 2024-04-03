@@ -1,6 +1,7 @@
-This is cretaed in GitHub.
+This is created in GitHub.
 
 Adding another line in Local.
 Adding a new line in GITHUB.
 Added line in local.
 
+Checking this line now.
